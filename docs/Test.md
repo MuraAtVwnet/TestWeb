@@ -1,3 +1,8 @@
+---
+layout: default
+title: テスト
+---
+
 # Titol 1 
 Text 
 
